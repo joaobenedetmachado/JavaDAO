@@ -1,4 +1,4 @@
-package modal.entities;
+package model.entities;
 
 import java.io.Serial;
 import java.io.Serializable;
